@@ -25,9 +25,7 @@ Simple, lightweight, and user-friendly, this project showcases efficient data ha
 ## 🧩 Tech Stack  
 - **Language:** Kotlin  
 - **IDE:** Android Studio  
-- **Architecture:** MVVM (optional if implemented)  
-- **Database:** Room / SQLite for local data storage  
-
+ 
 ---
 
 ## 🧠 How It Works  
