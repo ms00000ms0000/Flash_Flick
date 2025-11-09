@@ -46,32 +46,34 @@ Simple, lightweight, and user-friendly, this project showcases efficient data ha
 
 ## 🛠️ Setup Instructions  
 1. **Clone the repository:**  
-    
+    ```bash
    git clone https://github.com/ms00000ms0000/Flash_Flick.git
-   
-3. Open the project in Android Studio.
+   ```
+       
+2. **Open the project in Android Studio.**
 
-4. Sync Gradle and build the project.
+3. **Sync Gradle and build the project.**
 
-5. Run the app on an emulator or connected Android device.
+4. **Run the app on an emulator or connected Android device.**
 
-6. (Optional) Integrate Firebase for cloud backup or analytics.
+ ---
 
 ## 📷 Screenshots  
 
 ![flashflick](https://github.com/user-attachments/assets/960e9d28-128e-4d5c-898c-7ac009d8066a)
 
+---
 
 ## 👨‍💻 Developer
 
-Developed by: Mayank Srivastava
+- Developed by: Mayank Srivastava
 
-Language: Kotlin
+- Language: Kotlin
 
-IDE: Android Studio
+- IDE: Android Studio
 
-Version: 1.0.0
+- Version: 1.0.0
 
-## 📄 License
+---
 
-This project is open-source and available under the MIT License.
+ 
